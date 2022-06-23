@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    countries (5.0.2)
+      i18n_data (~> 0.16.0)
+      sixarm_ruby_unaccent (~> 1.1)
+    i18n_data (0.16.0)
+      simple_po_parser (~> 1.1)
+    simple_po_parser (1.1.6)
+    sixarm_ruby_unaccent (1.2.0)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  countries
+
+BUNDLED WITH
+   2.2.32
